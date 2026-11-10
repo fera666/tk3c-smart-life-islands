@@ -4237,6 +4237,6 @@
   ],
   "seasonalVisibility": {
     "fan": true,
-    "heater": false
+    "heater": true
   }
 }
