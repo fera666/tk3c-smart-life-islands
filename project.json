@@ -4234,5 +4234,9 @@
       ],
       "status": "verify"
     }
-  ]
+  ],
+  "seasonalVisibility": {
+    "fan": true,
+    "heater": false
+  }
 }
